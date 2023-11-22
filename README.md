@@ -1,4 +1,4 @@
-# dkucz.github.io
+# Student at the University of Toronto
 
 ### Education
 
