@@ -21,6 +21,8 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 ![Certificate](https://drive.google.com/uc?export=view&id=17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j)
 
 ### Projects
+
+
 #### **Third Person Simple Shooter:**
  - **Overview:** Developed a simple third-person shooter game using Unreal Engine 5.3.1, primarily leveraging C++ for core gameplay mechanics.
 - **Key Features:**
@@ -30,6 +32,8 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Current Status and Future Plans:** The game currently features one fully developed level, with additional levels and further gameplay enhancements planned for future updates. Please take a look at my Trello board to see planned future updates: [![Trello Board](https://img.shields.io/badge/trello-purple?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/9LAmC1pT/third-person-shooter)
 - **Video Showcase:** For an in-depth look at the gameplay and features, check out this video: YouTube Link
 - **Source Code:** Explore the game's source code and development details here: GitHub Link
+
+
 #### **Crypt Raider:**
 - **Overview:** Developed a puzzle-adventure game titled 'Crypt Raider' using Unreal Engine, where players navigate a crypt while solving puzzles and ultimately steal a prized statue. This project advanced my understanding of key features of C++ and Unreal Engine 5, such as actor and scene components, and Lumen Lighting.
 - **Key Learning and Features:**
@@ -41,6 +45,8 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Current Status and Future Plans:** The project features a complete crypt level with multiple puzzles. Plans for expansion include additional levels and enhanced puzzle complexity.
 - **Project Showcase:** Delve into the crypt's mysteries and explore the game's features here: YouTube Link
 - **Source Code and Development Insights:** Access the game's source code and my development journey here: GitHub Link
+
+
 #### **Tank Battle Game:**
 - **Overview:** Developed a straightforward tank battle game, where the player controls a tank to combat stationary turrets. This project enhanced my understanding of 3D modeling, audio-visual effects, and basic AI in game development.
 - **Key Features and Learning Points:**
@@ -56,6 +62,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - **Elevating Platforms:** Developed platforms that move up and down, creating a vertical dimension to the obstacle challenges.
 - **Project Showcase:** Experience the thrill and challenge of the course: Gameplay Video Link
 - **Source Code:** Access the development process and source code here: GitHub Link 
+
 
 ### Work Experience
 #### New Exception Games Programming Internship
