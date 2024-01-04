@@ -16,7 +16,8 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - Obstacle Course
   - Third Person Simple Shooter Game
 - **Certificate of Completion:**
-![Certificate](https://drive.google.com/file/d/17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j/view?usp=sharing)
+![Certificate](https://drive.google.com/uc?export=view&id=17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j)
+
 
 
 ### Projects
