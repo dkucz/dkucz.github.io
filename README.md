@@ -21,9 +21,16 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Certificate of Completion:**
 ![Certificate](https://drive.google.com/uc?export=view&id=17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j)
 
-
-
 ### Projects
+- **Third Person Simple Shooter:**
+- **Overview:** Developed a simple third-person shooter game using Unreal Engine 5.3.1, primarily leveraging C++ for core gameplay mechanics.
+- **Key Features:**
+  - **Dynamic Health and Ammo Systems:** Implemented systems to manage player health and ammunition, including features for health regeneration, ammo reloading, as well as health and ammo collectibles.
+  - **AI Enemy Behavior:** Developed AI behaviour with basic tactical behaviors, providing an engaging gameplay experience for players.
+  - **Menus and UI:** Designed and implemented a user-friendly interface, including a main menu, settings menu, and level selection screen, enhancing user experience and game accessibility.
+  - **Current Status and Future Plans:** The game currently features one fully developed level, with additional levels and further gameplay enhancements planned for future updates. Please take a look at my Trello board to see planned future updates: Trello Board Link
+  - **Video Showcase:** For an in-depth look at the gameplay and features, check out this video: YouTube Link
+  - **Source Code:** Explore the game's source code and development details here: GitHub Link
 
 ### Work Experience
 New Exception Games Programming Internship
