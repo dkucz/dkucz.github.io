@@ -13,7 +13,10 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - Dean's List Scholar
 ### Unreal 5.0 C++ Developer: Learn C++ and Make Video Games Course
 - **Projects:**
-  - Obstacle Course
+  - Warehouse Wreckage
+  - Obstacle Assault
+  - Crypt Raider
+  - Toon Tanks
   - Third Person Simple Shooter Game
 - **Certificate of Completion:**
 ![Certificate](https://drive.google.com/uc?export=view&id=17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j)
