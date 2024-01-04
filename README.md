@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - **Menus and UI:** Designed and implemented a user-friendly interface, including a main menu, settings menu, and level selection screen, enhancing user experience and game accessibility.
 - **Current Status and Future Plans:** The game currently features one fully developed level, with additional levels and further gameplay enhancements planned for future updates. Please take a look at my Trello board to see planned future updates: [![Trello Board](https://img.shields.io/badge/trello-purple?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/9LAmC1pT/third-person-shooter)
 - **Video Showcase:** For an in-depth look at the gameplay and features, check out this video: YouTube Link
-- **Source Code:** Explore the game's source code and development details here: GitHub Link
+- **Source Code:** Explore the game's source code and development details here: [Source Code](https://github.com/dkucz/SimpleThirdPersonShooterGame)
 
 
 #### **Crypt Raider:**
@@ -44,7 +44,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - **Innovative Puzzle Design:** Designed a series of puzzles involving pressure plates, requiring players to use strategy to progress through the crypt.
 - **Current Status and Future Plans:** The project features a complete crypt level with multiple puzzles. Plans for expansion include additional levels and enhanced puzzle complexity.
 - **Project Showcase:** Delve into the crypt's mysteries and explore the game's features here: YouTube Link
-- **Source Code and Development Insights:** Access the game's source code and my development journey here: GitHub Link
+- **Source Code and Development Insights:** Access the game's source code and my development journey here: [Source Code](https://github.com/dkucz/CryptRaiderGame)
 
 
 #### **Tank Battle Game:**
@@ -54,7 +54,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - **Simple Enemy AI:** Created a basic AI for turrets, enabling them to detect and shoot at the player's tank, introducing a fundamental level of interactivity and challenge.
 - **Outcome:** This project successfully serves as an example of basic game mechanics implementation.
 - **Demonstration:** See the game in action and its features: Gameplay Link
-- **Source Code:** Explore the coding and design aspects of the game here: GitHub Link
+- **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
 
 
 #### **Obstacle Assault Course**
