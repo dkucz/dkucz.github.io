@@ -7,8 +7,10 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Program:** Computational Cognition major, Computer Science minor
 - **Start Year:** 2021 - Present
 - **Key Courses:**
-  -  CSC209: Software Tools and System Programming, CSC207: Software Design, CSC236: Introduction to Theory of Computation,
-  -  CSC148: Introduction to Computer Science, CSC165: Mathematical Expression and Reasoning for Computer Science
+  -  CSC209: Software Tools and System Programming (In progress), CSC207: Software Design, CSC236: Introduction to Theory of Computation, CSC148: Introduction to Computer Science, CSC165: Mathematical Expression and Reasoning for Computer Science COG250: Introduction to Cognitive Science
+- **Projects/Achievements**:
+  - CSC207: Fitness Tracking App
+  - Dean's List Scholar
 
 ### Projects
 
