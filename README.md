@@ -54,7 +54,6 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Key Features and Learning Points:**
   - **Audio-Visual Effects:** Integrated smoke effects and added sound effects for shooting and explosions, improving gameplay experience. 
   - **Simple Enemy AI:** Created a basic AI for turrets, enabling them to detect and shoot at the player's tank, introducing a fundamental level of interactivity and challenge.
-- **Outcome:** This project successfully serves as an example of basic game mechanics implementation.
 - **Demonstration:** See the game in action and its features: Gameplay Link
 - **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
 
