@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 ### Projects
 
 
-#### <a id="simple shooter"></a>**Third Person Simple Shooter:**
+#### <a id="simple-shooter"></a>**Third Person Simple Shooter:**
  - **Overview:** Developed a simple third-person shooter game using Unreal Engine 5.3.1, primarily leveraging C++ for core gameplay mechanics.
 - **Key Features:**
   - **Dynamic Health and Ammo Systems:** Implemented systems to manage player health and ammunition, including features for health regeneration, ammo reloading, as well as health and ammo collectibles.
@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Source Code:** Explore the game's source code and development details here: [Source Code](https://github.com/dkucz/SimpleThirdPersonShooterGame)
 
 
-#### <a id="crypt raider"></a>**Crypt Raider:**
+#### <a id="crypt-raider"></a>**Crypt Raider:**
 - **Overview:** Developed a puzzle-adventure game titled 'Crypt Raider' using Unreal Engine, where players navigate a crypt while solving puzzles and ultimately steal a prized statue. This project advanced my understanding of key features of C++ and Unreal Engine 5, such as actor and scene components, and Lumen Lighting.
 - **Key Learning and Features:**
   - **Actor and Scene Components:** Gained hands-on experience with Unreal Engine's actor and scene components, utilizing them to build interactive game elements, for instance, allowing players to grab items in the world and interact with them.
@@ -49,7 +49,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Source Code and Development Insights:** Access the game's source code and my development journey here: [Source Code](https://github.com/dkucz/CryptRaiderGame)
 
 
-#### <a id="tank battle"></a>**Tank Battle Game:**
+#### <a id="tank-battle"></a>**Tank Battle Game:**
 - **Overview:** Developed a straightforward tank battle game, where the player controls a tank to combat stationary turrets. This project enhanced my understanding of 3D modeling, audio-visual effects, and basic AI in game development.
 - **Key Features and Learning Points:**
   - **Audio-Visual Effects:** Integrated smoke effects and added sound effects for shooting and explosions, improving gameplay experience. 
@@ -58,7 +58,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
 
 
-#### <a id="obstacle course"></a>**Obstacle Assault Course**
+#### <a id="obstacle-course"></a>**Obstacle Assault Course**
 - **Overview:** Designed and developed a dynamic obstacle course game featuring a variety of challenging elements, such as rotating, and moving platforms. This project allowed me to delve into physics-based game mechanics and interactive level design in game development.
 - **Key Features and Learning Points:**
   - Moving Platforms: Implemented platforms that rotate on various axes, testing player timing and precision, as well as developing platforms that move horizontally and vertically, adding complexity and requiring strategic movement from players.
