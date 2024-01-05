@@ -65,7 +65,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - Moving Platforms: Implemented platforms that rotate on various axes, testing player timing and precision, as well as developing platforms that move horizontally and vertically, adding complexity and requiring strategic movement from players.
   - **Elevating Platforms:** Developed platforms that move up and down, creating a vertical dimension to the obstacle challenges.
 - **Project Showcase:** Experience the thrill and challenge of the course: Gameplay Video Link
-- **Source Code:** Access the development process and source code here: GitHub Link 
+- **Source Code:** Access the development process and source code here: [Source Code](https://github.com/dkucz/ObstacleAssaultGame)
 
 
 ### Work Experience
