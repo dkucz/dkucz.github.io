@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 #### **Crypt Raider:**
 - **Overview:** Developed a puzzle-adventure game titled 'Crypt Raider' using Unreal Engine, where players navigate a crypt while solving puzzles and ultimately steal a prized statue. This project advanced my understanding of key features of C++ and Unreal Engine 5, such as actor and scene components, and Lumen Lighting.
 - **Key Learning and Features:**
-  - Actor and Scene Components: Gained hands-on experience with Unreal Engine's actor and scene components, utilizing them to build interactive game elements, for instance, allowing players to grab items in the world and interact with them.
+  - **Actor and Scene Components:** Gained hands-on experience with Unreal Engine's actor and scene components, utilizing them to build interactive game elements, for instance, allowing players to grab items in the world and interact with them.
   - **Advanced Lighting with Lumen:** Employed Unreal Engine's Lumen lighting system to enhance the game's atmosphere and visual appeal, creating a realistic and immersive crypt environment.
   - **Modular Level Design:** Adopted a modular design approach for level creation, allowing for flexible and efficient design changes and iterations.
   - **Line Tracing and Collisions:** Implemented line tracing to detect player interactions with the environment and manage collision events, critical for puzzle mechanics and navigation within the game.
