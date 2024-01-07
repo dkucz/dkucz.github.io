@@ -32,7 +32,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - **AI Enemy Behavior:** Developed AI behaviour with basic tactical behaviors, providing an engaging gameplay experience for players.
   - **Menus and UI:** Designed and implemented a user-friendly interface, including a main menu, settings menu, and level selection screen, enhancing user experience and game accessibility.
 - **Current Status and Future Plans:** The game currently features one fully developed level, with additional levels and further gameplay enhancements planned for future updates. Please take a look at my Trello board to see planned future updates: [![Trello Board](https://img.shields.io/badge/trello-purple?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/9LAmC1pT/third-person-shooter)
-- **Video Showcase:** For an in-depth look at the gameplay and features, check out this video: [Gameplay](https://www.youtube.com/watch?v=ZBSGYosYGgY)
+- **Video Showcase:** For an in-depth look at the gameplay and features, check out this video: [Gameplay](https://youtu.be/Yv25OyIc-sY)
 - **Source Code:** Explore the game's source code and development details here: [Source Code](https://github.com/dkucz/SimpleThirdPersonShooterGame)
 
 
