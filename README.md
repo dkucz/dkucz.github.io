@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Key Courses:**
   -  CSC209: Software Tools and System Programming (In progress), CSC207: Software Design, CSC236: Introduction to Theory of Computation, CSC148: Introduction to Computer Science, CSC165: Mathematical Expression and Reasoning for Computer Science COG250: Introduction to Cognitive Science
 - **Projects/Achievements**:
-  - CSC207: Fitness Tracking App
+  - [CSC207: Fitness Tracking App](#fitness-tracking)
   - Dean's List Scholar
  
 
@@ -34,6 +34,16 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Current Status and Future Plans:** The game currently features one fully developed level, with additional levels and further gameplay enhancements planned for future updates. Please take a look at my Trello board to see planned future updates: [![Trello Board](https://img.shields.io/badge/trello-purple?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/9LAmC1pT/third-person-shooter)
 - **Video Showcase:** For an in-depth look at the gameplay and features, check out this video: YouTube Link
 - **Source Code:** Explore the game's source code and development details here: [Source Code](https://github.com/dkucz/SimpleThirdPersonShooterGame)
+
+
+#### <a id="fitness-tracking"> **Fitness Tracking App:""
+- **Overview:** Created a fitness scheduling app that you can share with a group of friends in Java, utilizing various APIs.  
+- **Key Features and Learning:**
+  - **Firestore Database:** Developed a cloud-based database design using Google Firestore, allowing for seamless storage of user information, friends, and workout schedules.
+  - **Google Calendar API:** Implemented the Google Calendar API into our project enabling users to store their workout events in a Google Calendar.
+  - **Project Manager:** Acted as a project manager throughout completion, setting out the scope and size of our project while making sure development was on track. Developed strong teamwork and collaboration skills, learning to effectively communicate and work within a team environment.
+  - **Testing:** Gained insight into the crucial role of large-scale testing in identifying and resolving coding issues to ensure reliability and performance in real-world scenarios.
+- **Source Code:** Explore the app's source code and see our workflow from start to finish: [Source Code](https://github.com/dkucz/CSC207-Group-Project)
 
 
 #### <a id="crypt-raider"></a>**Crypt Raider:**
