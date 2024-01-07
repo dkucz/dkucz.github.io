@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Source Code:** Explore the game's source code and development details here: [Source Code](https://github.com/dkucz/SimpleThirdPersonShooterGame)
 
 
-#### <a id="fitness-tracking"> **Fitness Tracking App:**
+#### <a id="fitness-tracking"></a>**Fitness Tracking App:**
 - **Overview:** Created a fitness scheduling app that you can share with a group of friends in Java, utilizing various APIs.  
 - **Key Features and Learning:**
   - **Firestore Database:** Developed a cloud-based database design using Google Firestore, allowing for seamless storage of user information, friends, and workout schedules.
