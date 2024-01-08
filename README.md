@@ -1,4 +1,4 @@
-s# Dominik Kucz - Computational Cognition Student at University of Toronto
+# Dominik Kucz - Computational Cognition Student at University of Toronto
 
 Welcome to my GitHub portfolio! I'm a third-year student at the University of Toronto, specializing in Computational Cognition. I am passionate about game development, and interested in AI and the intersection of technology and cognitive science.
 
