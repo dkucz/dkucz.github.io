@@ -59,15 +59,6 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Source Code and Development Insights:** Access the game's source code and my development journey here: [Source Code](https://github.com/dkucz/CryptRaiderGame)
 
 
-#### <a id="tank-battle"></a>**Tank Battle Game:**
-- **Overview:** Developed a straightforward tank battle game, where the player controls a tank to combat stationary turrets. This project enhanced my understanding of 3D modeling, audio-visual effects, and basic AI in game development.
-- **Key Features and Learning Points:**
-  - **Audio-Visual Effects:** Integrated smoke effects and added sound effects for shooting and explosions, improving gameplay experience. 
-  - **Simple Enemy AI:** Created a basic AI for turrets, enabling them to detect and shoot at the player's tank, introducing a fundamental level of interactivity and challenge.
-- **Demonstration:** See the game in action and its features: Gameplay Link
-- **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
-
-
 #### <a id="obstacle-course"></a>**Obstacle Assault Course**
 - **Overview:** Designed and developed a dynamic obstacle course game featuring a variety of challenging elements, such as rotating, and moving platforms. This project allowed me to delve into physics-based game mechanics and interactive level design in game development.
 - **Key Features and Learning Points:**
@@ -76,6 +67,14 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Project Showcase:** Experience the thrill and challenge of the course: Gameplay Video Link
 - **Source Code:** Access the development process and source code here: [Source Code](https://github.com/dkucz/ObstacleAssaultGame)
 
+
+#### <a id="tank-battle"></a>**Tank Battle Game:**
+- **Overview:** Developed a straightforward tank battle game, where the player controls a tank to combat stationary turrets. This project enhanced my understanding of 3D modeling, audio-visual effects, and basic AI in game development.
+- **Key Features and Learning Points:**
+  - **Audio-Visual Effects:** Integrated smoke effects and added sound effects for shooting and explosions, improving gameplay experience. 
+  - **Simple Enemy AI:** Created a basic AI for turrets, enabling them to detect and shoot at the player's tank, introducing a fundamental level of interactivity and challenge.
+- **Demonstration:** See the game in action and its features: [![Gameplay Preview](https://github.com/dkucz/dkucz.github.io/blob/main/obstaclecoursess.png?raw=true)](https://www.youtube.com/watch?v=dscYy_zYxaM)
+- **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
 
 ### Work Experience
 #### New Exception Games Programming Internship
