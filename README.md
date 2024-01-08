@@ -55,7 +55,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - **Line Tracing and Collisions:** Implemented line tracing to detect player interactions with the environment and manage collision events, critical for puzzle mechanics and navigation within the game.
   - **Innovative Puzzle Design:** Designed a series of puzzles involving pressure plates, requiring players to use strategy to progress through the crypt.
 - **Current Status and Future Plans:** The project features a complete crypt level with multiple puzzles. Plans for expansion include additional levels and enhanced puzzle complexity.
-- **Project Showcase:** Delve into the crypt's mysteries and explore the game's features here: [![Gameplay Preview](https://github.com/dkucz/dkucz.github.io/blob/main/cryptraiderss2.png?raw=true)](https://www.youtube.com/watch?v=X52CSJ4rgCg)
+- **Project Showcase:** Jump into the crypt and explore the game's features here: [![Gameplay Preview](https://github.com/dkucz/dkucz.github.io/blob/main/cryptraiderss2.png?raw=true)](https://www.youtube.com/watch?v=X52CSJ4rgCg)
 - **Source Code and Development Insights:** Access the game's source code and my development journey here: [Source Code](https://github.com/dkucz/CryptRaiderGame)
 
 
@@ -64,7 +64,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Key Features and Learning Points:**
   - Moving Platforms: Implemented platforms that rotate on various axes, testing player timing and precision, as well as developing platforms that move horizontally and vertically, adding complexity and requiring strategic movement from players.
   - **Elevating Platforms:** Developed platforms that move up and down, creating a vertical dimension to the obstacle challenges.
-- **Project Showcase:** Experience the thrill and challenge of the course: Gameplay Video Link
+- **Project Showcase:** Take a look at the gameplay: [![Gameplay Preview](https://github.com/dkucz/dkucz.github.io/blob/main/obstaclecoursess.png?raw=true)](https://www.youtube.com/watch?v=dscYy_zYxaM)
 - **Source Code:** Access the development process and source code here: [Source Code](https://github.com/dkucz/ObstacleAssaultGame)
 
 
@@ -73,7 +73,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Key Features and Learning Points:**
   - **Audio-Visual Effects:** Integrated smoke effects and added sound effects for shooting and explosions, improving gameplay experience. 
   - **Simple Enemy AI:** Created a basic AI for turrets, enabling them to detect and shoot at the player's tank, introducing a fundamental level of interactivity and challenge.
-- **Demonstration:** See the game in action and its features: [![Gameplay Preview](https://github.com/dkucz/dkucz.github.io/blob/main/obstaclecoursess.png?raw=true)](https://www.youtube.com/watch?v=dscYy_zYxaM)
+- **Demonstration:** See the game in action: [![Gameplay Preview](https://github.com/dkucz/dkucz.github.io/blob/main/tankbattless.png?raw=true)](https://www.youtube.com/watch?v=j2_cAbi9sd0)
 - **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
 
 ### Work Experience
