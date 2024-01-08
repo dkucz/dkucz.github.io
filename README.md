@@ -77,4 +77,9 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Source Code:** Explore the coding and design aspects of the game here: [Source Code](https://github.com/dkucz/TankAssaultGame)
 
 ### Work Experience
-#### New Exception Games Programming Internship
+#### New Exception Games Programming Internship (June 2022 - September 2022)
+#### Design Researcher at UofT Innovation Hub (September 2023 - Present)
+##### Key Skills Developed
+- **Research and Analysis**: Enhanced skills in qualitative research, data analysis, and trend identification.
+- **Communication and Collaboration**: Gained experience in working with interdisciplinary, diverse teams and effectively communicating findings to various stakeholders.
+- **Project Management**: Developed proficiency in managing project timelines and resources for successful data collection and analysis.
