@@ -78,6 +78,17 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 
 ### Work Experience
 #### New Exception Games Programming Internship (June 2022 - September 2022)
+##### Key Responsibilities and Achievements
+- **Random Dungeon Generator**: Designed and implemented an algorithm for generating random dungeon layouts.
+- **Touch Controls and Movement**: Developed touch-based control systems for player movement and interaction within the game environment.
+- **Grid Map Layout**: Created a grid-based map system, laying the foundation for strategic gameplay and environmental interactions.
+- **Turn-Based Game Manager**: Engineered a turn manager for the game, governing player and enemy actions in a turn-based fashion.
+##### Skills Developed
+- **Game Mechanics Implementation**: Gained hands-on experience in developing core game mechanics for a mobile platform.
+- **Algorithm Design**: Enhanced my skills in algorithm design and procedural generation.
+- **Project Collaboration**: Worked collaboratively in a team, contributing to various stages of game development, from ideation to implementation.
+
+  
 #### Design Researcher at UofT Innovation Hub (September 2023 - Present)
 ##### Key Skills Developed
 - **Research and Analysis**: Enhanced skills in qualitative research, data analysis, and trend identification.
