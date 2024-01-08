@@ -90,7 +90,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 
   
 #### Design Researcher at UofT Innovation Hub (September 2023 - Present)
-##### Key Skills Developed
+##### Skills Developed
 - **Research and Analysis**: Enhanced skills in qualitative research, data analysis, and trend identification.
 - **Communication and Collaboration**: Gained experience in working with interdisciplinary, diverse teams and effectively communicating findings to various stakeholders.
 - **Project Management**: Developed proficiency in managing project timelines and resources for successful data collection and analysis.
