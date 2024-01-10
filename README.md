@@ -88,7 +88,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
 - **Algorithm Design**: Enhanced my skills in algorithm design and procedural generation.
 - **Project Collaboration**: Worked collaboratively in a team, contributing to various stages of game development, from ideation to implementation.
 ##### Confidentiality Note
-- Due to my confedentiality agreement with New Exception Games, I am unable share specific source code or detailed insight into the development process. 
+- Due to my confidentiality agreement with New Exception Games, I am unable to share specific source code or detailed insight into the development process. 
 
   
 #### Design Researcher at UofT Innovation Hub (September 2023 - Present)
