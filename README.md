@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! I'm a third-year student at the University of To
   - [Tank Battle](#tank-battle)
   - [Obstacle Assault](#obstacle-course)
 - **Certificate of Completion:**
-![Certificate](https://drive.google.com/uc?export=view&id=17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j)
+![Certificate]([https://drive.google.com/uc?export=view&id=17pF53q1SKqcT5_ZTCSpHHSPVOkjOgm-j](https://github.com/dkucz/dkucz.github.io/blob/main/1699409451562_page-0001.jpg?raw=true))
 
 ### Projects
 
